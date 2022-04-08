@@ -1,8 +1,10 @@
 <?php
 
 $bmw = [
-    'model',
-    'speed',
-    'doors',
-    'yaer',
+    'model'  => 'X5',
+    'speed'  => 120,
+    'doors'  => 5,
+    'yaer'   => '2015',
 ];
+
+
